@@ -1,0 +1,21 @@
+{
+  "name": "b22-javascript-1",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleReborn/b22-javascript-1.git"
+  },
+  "author": "Sandi Muhamad Rizalul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleReborn/b22-javascript-1/issues"
+  },
+  "homepage": "https://github.com/PurpleReborn/b22-javascript-1#readme",
+  "dependencies": {}
+}
