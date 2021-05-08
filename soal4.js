@@ -23,21 +23,7 @@ let data = {
     console.log(data2)
 
 
-    let {
-        id,
-        name,
-        username,
-        email,
-        address: 
-        {
-        street: item1,
-        suite,
-        city: item2,
-        zipcode,
-        },
-        phone,
-        website,
-        } = data
+    const {street,city} = data2.address
+    console.log(street)
+    console.log(city)
 
-
-console.log(item1,item2)
